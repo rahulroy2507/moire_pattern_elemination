@@ -1,5 +1,5 @@
 # moire_pattern_elemination
-Author : Rahul Roy\\
+Author : Rahul Roy//
 Supervisor : Prof. Amiya Kumar Sarkar
 
 Description:
